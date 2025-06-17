@@ -9,11 +9,12 @@ I received my **B.Eng.** from Remote Sensing Information and Engineering School,
 I was also a visiting student at Queen Mary University of London
 I am currently a **Postdoctoral Researcher** at **Queen Mary University of London** since 2024.  
 
+
 My research focuses on:
 
-- Emerging antennas (**pinching antenna system (PASS)**, RIS) and multiple access
+- Emerging antennas (**pinching antenna system (PASS)**, RIS) and multiple access techniques
 - AI & machine learning driven optimization
-- Large model over wireless network (mobile edge generation (MEG))
+- Large model over wireless network (**mobile edge generation (MEG)**)
 
 
 📧 Email: [x.xiaoxia@qmul.ac.uk](mailto:x.xiaoxia@qmul.ac.uk)  
