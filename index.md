@@ -1,9 +1,5 @@
 ---
-layout: home
-title: "Test Homepage"
-permalink: /
+layout: redirect
+title: "Xiaoxia Xu"
+redirect_to: /about/
 ---
-
-# Hello!
-
-If you can read this, the homepage works.
