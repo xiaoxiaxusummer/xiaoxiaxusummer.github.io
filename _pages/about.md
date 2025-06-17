@@ -3,7 +3,7 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-<img src="/assets/images/avatar.jpg" alt="Xiaoxia Xu" width="180" style="border-radius: 50%; float: left; margin-left: 5%; margin-right: 5%; margin-top: 5%; margin-bottom: 5%;">
+<img src="/assets/images/avatar.jpg" alt="Xiaoxia Xu" width="180" style="border-radius: 50%; float: left; margin-left: 5%; margin-right: 5%; margin-top: 3%; margin-bottom: 3%;">
 I received my **B.Eng.** from Remote Sensing Information and Engineering School, **Wuhan university** in 2017, and **Ph.D.** from Electronic Information School, **Wuhan University** in 2023.
 
 I was also a visiting student at School of Electronic Engineering and Computer Science (EECS) of **Queen Mary University of London** between 2021 and 2022, where I am currently a **Postdoctoral Researcher** since 2024 (Remotely started from 09/2023).  
