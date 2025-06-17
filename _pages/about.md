@@ -25,9 +25,9 @@ My research focuses on wireless communications and AI, including
 - **[2025-06-11]** A talk is delievered at IEEE ICC 2025 in Canada on deploying large model at the edge based on the novel concept of **generation splitting**. [Conference & journal papers to be appear soon]
   [[Slides]](https://github.com/xiaoxiaxusummer/MEGSplitting/blob/main/Optimal%20Energy-Delay%20Tradeoff%20for%20MEG.pdf) [[Demo Code]](https://github.com/xiaoxiaxusummer/MEGSplitting)
 - **[2025-04-30]** Preprint **Pinching-Antenna Systems (PASS): Power Radiation Model and Optimal Beamforming Design** is submitted. We also release the reproducible code 🚀 [[arXiv]](https://arxiv.org/abs/2505.00218) [[Code]](https://github.com/xiaoxiaxusummer/PASS_Discrete)
-	- A novel pinch-wise power control model for pinching antenna
-	- Globally optimal pinching beamforming and digital beamforming algorithm for discrete PASS activation
-	- A low-complexity  pinching beamforming and digital beamforming algorithm based on matching theory, which demonstrates real near-optimal performance through our experiments
+	- A novel *pinch-wise* power radiation control model for pinching antenna
+	- **Globally optimal** pinching beamforming and digital beamforming algorithm for discrete PASS activation
+	- A low-complexity  pinching beamforming and digital beamforming algorithm based on *many-to-many matching* theory, which achieves real near-optimal performance through our experiments
 - **[2025-03-26]** Paper **Accelerating Mobile Edge Generation (MEG) by Constrained Learning** is accepted by *IEEE Transactions on Cognitive Communications and Networking*! 🎉 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10955724) [[arXiv]](https://arxiv.org/pdf/2407.07245) [[Dataset]](https://huggingface.co/datasets/xiaoxiaxu/highresolution-laioncoco-aesthetic-MEG) [[HuggingfacePipeline]](https://huggingface.co/xiaoxiaxu/LowLatencyMEG_Backbone) [[Code]](https://github.com/xiaoxiaxusummer/LowLatencyMEG)
 	- A novel joint compression framework to accelerate large model execution for AIGC generation at mobile devices, which optimizes compression ratios of both diffusion steps and transmitted features to achieve tradeoffs between generation quality and latency.  
 	- Verified mathematical models of both latency and energy consumption using the proposed collaborative generation framework.
