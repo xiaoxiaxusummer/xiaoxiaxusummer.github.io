@@ -17,6 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Navigation menu (top bar)
 nav_pages:
