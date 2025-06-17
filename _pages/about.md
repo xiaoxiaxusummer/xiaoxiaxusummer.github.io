@@ -3,7 +3,7 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-<img src="/assets/images/avatar.jpg" alt="Xiaoxia Xu" width="180" style="border-radius: 50%; float: left; margin-left: 40px; margin-right: 40px; margin-top: 20px; margin-bottom: 20px;">
+<img src="/assets/images/avatar.jpg" alt="Xiaoxia Xu" width="180" style="border-radius: 50%; float: left; margin-left: 50px; margin-right: 50px; margin-top: 30px; margin-bottom: 30px;">
 I received my **B.Eng.** from Remote Sensing Information and Engineering School, **Wuhan university** in 2017, and **Ph.D.** from Electronic Information School, **Wuhan University** in 2023.
 
 I was also a visiting student at School of Electronic Engineering and Computer Science (EECS) of **Queen Mary University of London** between 2021 and 2022, where I am currently a **Postdoctoral Researcher** since 2024 (Remotely started from 09/2023).  
@@ -12,7 +12,9 @@ My research focuses on:
 - Emerging antennas (**pinching antenna system (PASS)**, RIS) and multiple access techniques
 - AI & machine learning driven optimization
 - Large model over wireless network (**mobile edge generation (MEG)**)
+
 📧 Email: [x.xiaoxia@qmul.ac.uk](mailto:x.xiaoxia@qmul.ac.uk)  
+
 🔗 [Google Scholar](https://scholar.google.com.hk/citations?user=3ifNbp0AAAAJ&hl)
 
 ---
