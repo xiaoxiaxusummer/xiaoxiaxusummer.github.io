@@ -11,6 +11,7 @@ avatar: "assets/images/avatar.jpg"
 # Build settings
 markdown: kramdown
 remote_theme: academicpages/academicpages.github.io
+title: "Xiaoxia Xu"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
