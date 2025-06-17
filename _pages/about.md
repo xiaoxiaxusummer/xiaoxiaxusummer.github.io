@@ -34,9 +34,9 @@ My research focuses on wireless communications and AI, including
 	- An offline distillation mechanism that trains a backbone distributed stable diffusion XL model to support various compression ratios. 
 	- A constrained deep reinforcement learning algorithm that optimizes compression ratios in online channel environment, which maximizes the generation quality and stringently guarantees end-to-end latency and energy consumption constraints.
 - **[2025-02-12]** Preprint **Joint Transmit and Pinching Beamforming for Pinching Antenna Systems (PASS): Optimization-Based or Learning-Based?** is submitted. [[arXiv]](https://arxiv.org/pdf/2502.08637)
-	- Sum rate maximization for (continuous) pinching antenna system (PASS) by jointly optimizing pinching beamforming (achieved by configuring pinching antenna positions) and transmit beamforming
-	- A mathematical optimization based joint pinching beamforming and transmit beamforming design via MM-PDD
- 	- A machine learning based pinching beamforming and transmit beamforming design via KKT-guided Transformer 
+    - Sum rate maximization for (continuous) pinching antenna system (PASS) by jointly optimizing pinching beamforming (achieved by configuring pinching antenna positions) and transmit beamforming
+    - A mathematical optimization based joint pinching beamforming and transmit beamforming design via MM-PDD algorithm
+    - A machine learning based pinching beamforming and transmit beamforming design via KKT-guided Transformer 
 - **[2025-01-30]** Co-authored preprint **Pinching antenna systems (PASS): Architecture designs, opportunities, and outlook** is submitted. [[arXiv]](https://arxiv.org/abs/2501.18409)
 - **[2025-12-30]** Co-authored preprint **Diffusion Model for Multiple Antenna Communications** is submitted. [[arXiv]](https://arxiv.org/abs/2502.01841)
 - **[2025-12-18]** Preprint **Large Model at Edge: An Optimal Mobile Edge Generation (MEG) Design** is submitted. 
