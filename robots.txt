@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaoxiaxusummer.github.io/sitemap.xml
