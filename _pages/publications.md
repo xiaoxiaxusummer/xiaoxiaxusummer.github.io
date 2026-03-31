@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-Selected **journal papers** and **preprints**, organized by research topic.
-
 ## Research Interests
 - **Pinching-Antenna Systems (PASS)**
 - **AI-Native Wireless Communications and Large AI Models (LAM)**
@@ -14,7 +12,11 @@ Selected **journal papers** and **preprints**, organized by research topic.
 - **mmWave/THz, Unlicensed Networks, and Emerging Wireless Systems**
 - **NOMA and Next-Generation Multiple Access (NGMA)**
 
-A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3ifNbp0AAAAJ&hl).
+---
+
+A **full list** of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3ifNbp0AAAAJ&hl).
+
+Below are selected **journal papers** or **preprints**, organized by research topic.
 
 ---
 
