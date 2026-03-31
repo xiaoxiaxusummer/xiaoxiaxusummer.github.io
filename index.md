@@ -51,6 +51,8 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 
 - **X. Xu**, X. Mu, Y. Liu, and A. Nallanathan. *Multi-Mode Pinching Antenna Systems Enabled Multi-User Communications.* **arXiv preprint**, 2026. [[ArXiv](https://arxiv.org/abs/2601.20780)]
 
+- **X. Xu**, X. Mu, Y. Liu, and A. Nallanathan. *Multi-Mode Pinching-Antenna Systems: Mode Selection or Mode Combining?* **arXiv preprint**, 2026. [[ArXiv](https://arxiv.org/abs/2603.08472)] [[Code](https://github.com/xiaoxiaxusummer/multi_mode_pinching_antenna)]
+
 
 
 ### AI-Native Wireless Networks and Edge Intelligence
