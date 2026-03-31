@@ -75,17 +75,15 @@ Below are selected **journal papers** or **preprints**, organized by research to
 
 - Q. Chen, **X. Xu**, Z. You, H. Jiang, J. Zhang, and F.-Y. Wang. *Communication-efficient federated edge learning for NR-U-based IIoT networks.* **IEEE Internet of Things Journal**, vol. 9, no. 14, pp. 12450-12459, 2021. [[Paper](https://doi.org/10.1109/JIOT.2021.3136205)]
 
-- B. Wang, **X. Xu**, M. Ouyang, J. Liu, and Y. Liu. *Secure Mobile Edge Generation (MEG): Privacy Preservation in the Presence of Eavesdroppers.* **IEEE Communications Letters**, vol. 30, pp. 1136-1140, 2026. [[Paper](https://doi.org/10.1109/LCOMM.2026.3664435)]
-
 - D. Gan, **X. Xu**, X. Ge, and Y. Liu. *NOMA-Assisted Mobile Edge Generation (MEG): Enabling Mobile Access to Large Models.* **IEEE Transactions on Wireless Communications**, vol. 25, pp. 10002-10017, 2026. [[Paper](https://doi.org/10.1109/TWC.2025.3648836)]
+
+- B. Wang, **X. Xu**, M. Ouyang, J. Liu, and Y. Liu. *Secure Mobile Edge Generation (MEG): Privacy Preservation in the Presence of Eavesdroppers.* **IEEE Communications Letters**, vol. 30, pp. 1136-1140, 2026. [[Paper](https://doi.org/10.1109/LCOMM.2026.3664435)]
 
 - T. Shi, T. Zhang, **X. Xu**, Y. Liu, and R. Huang. *Multimodal Mobile Edge Computing: Multi-Objective Optimization With Synchronization Constraint.* **IEEE Transactions on Mobile Computing**, 2025. [[Paper](https://www.computer.org/csdl/journal/tm/5555/01/11304573/2czVyMqPEm4)]
 
 - Z. Zhao, **X. Xu**, T. Zhang, J. Li, and Y. Liu. *Dependency-Aware Task Offloading in Multi-UAV Assisted Collaborative Mobile Edge Computing.* **arXiv preprint**, 2025. [[ArXiv](https://arxiv.org/abs/2510.20149)]
 
 - Q. Chen, R. Li, **X. Xu**, J. Wu, H. Jiang, and M. Qiu. *Human-aware dynamic hierarchical network control for distributed metaverse services.* **IEEE Journal on Selected Areas in Communications**, vol. 42, no. 3, pp. 629-642, 2024. [[Paper](https://doi.org/10.1109/JSAC.2023.3345399)]
-
-- H. Xie, T. Zhang, **X. Xu**, D. Yang, and Y. Liu. *Joint sensing, communication, and computation in UAV-assisted systems.* **IEEE Internet of Things Journal**, vol. 11, no. 18, pp. 29412-29426, 2024. [[Paper](https://doi.org/10.1109/JIOT.2024.3362937)]
 
 ---
 
@@ -98,5 +96,7 @@ Below are selected **journal papers** or **preprints**, organized by research to
 
 
 - Q. Chen, **X. Xu**, and H. Jiang. *Online green communication scheduling for sliced unlicensed heterogeneous networks.* **IEEE Transactions on Vehicular Technology**, vol. 70, no. 10, pp. 10657-10670, 2021. [[Paper](https://doi.org/10.1109/TVT.2021.3110823)]
+
+- H. Xie, T. Zhang, **X. Xu**, D. Yang, and Y. Liu. *Joint sensing, communication, and computation in UAV-assisted systems.* **IEEE Internet of Things Journal**, vol. 11, no. 18, pp. 29412-29426, 2024. [[Paper](https://doi.org/10.1109/JIOT.2024.3362937)]
 
 - S. Wang, T. Zhang, **X. Xu**, and Y. Liu. *Heterogeneous Semantic and Bit Communications in UAV Network: A Semi-NOMA Design.* **IEEE Transactions on Vehicular Technology**, 2025. [[Paper](https://doi.org/10.1109/TVT.2025.3637603)]
