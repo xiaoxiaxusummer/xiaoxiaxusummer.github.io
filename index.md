@@ -45,13 +45,22 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 
 ### Pinching-Antenna Systems (PASS)
 
-- **X. Xu**, X. Mu, Z. Wang, Y. Liu, and A. Nallanathan. *Pinching-antenna systems (PASS): Power radiation model and optimal beamforming design.* **IEEE Transactions on Communications**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11263923)] [[Code](https://github.com/xiaoxiaxusummer/PASS_Discrete)]
+- **X. Xu**, X. Mu, Y. Liu, and A. Nallanathan. *Multi-Mode Pinching-Antenna Systems: Mode Selection or Mode Combining?* **arXiv preprint**, 2026. [[ArXiv](https://arxiv.org/abs/2603.08472)] [[Code](https://github.com/xiaoxiaxusummer/multi_mode_pinching_antenna)]
 
-- **X. Xu**, X. Mu, Y. Liu, and A. Nallanathan. *Joint transmit and pinching beamforming for pinching antenna systems (PASS): Optimization-based or learning-based?* **IEEE Transactions on Wireless Communications**, 2026. [[Paper](https://ieeexplore.ieee.org/document/11371592)] [[Code](https://github.com/xiaoxiaxusummer/KDL_Transformer_Beamforming)]
+  `Multi-Mode PASS` `EM Coupling Protocol` `PSO-KPBF` `Mode-Domain Multiplexing` 
 
 - **X. Xu**, X. Mu, Y. Liu, and A. Nallanathan. *Multi-Mode Pinching Antenna Systems Enabled Multi-User Communications.* **arXiv preprint**, 2026. [[ArXiv](https://arxiv.org/abs/2601.20780)]
 
-- **X. Xu**, X. Mu, Y. Liu, and A. Nallanathan. *Multi-Mode Pinching-Antenna Systems: Mode Selection or Mode Combining?* **arXiv preprint**, 2026. [[ArXiv](https://arxiv.org/abs/2603.08472)] [[Code](https://github.com/xiaoxiaxusummer/multi_mode_pinching_antenna)]
+  `Multi-Mode PASS` `Physic Model` `Channel Orthogonization` `Mode-Domain Multiplexing` `PSO-ZF`
+
+- **X. Xu**, X. Mu, Z. Wang, Y. Liu, and A. Nallanathan. *Pinching-antenna systems (PASS): Power radiation model and optimal beamforming design.* **IEEE Transactions on Communications**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11263923)] [[Code](https://github.com/xiaoxiaxusummer/PASS_Discrete)]
+
+  `PASS` `Discrete PA Position` `Branch and Bound (BnB)` `Many-to-Many Matching` `Globally Optimal Solution`
+
+- **X. Xu**, X. Mu, Y. Liu, and A. Nallanathan. *Joint transmit and pinching beamforming for pinching antenna systems (PASS): Optimization-based or learning-based?* **IEEE Transactions on Wireless Communications**, 2026. [[Paper](https://ieeexplore.ieee.org/document/11371592)] [[Code](https://github.com/xiaoxiaxusummer/KDL_Transformer_Beamforming)]
+
+  `PASS` `Pinching Beamforming` `Continuous PA Position` `Model-based Learning` `Large Model` `KKT-Guided Transformer`
+
 
 
 
@@ -59,11 +68,19 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 
 - **X. Xu**, X. Mu, Y. Liu, H. Xing, Y. Liu, and A. Nallanathan. *Generative artificial intelligence for mobile communications: A diffusion model perspective.* **IEEE Communications Magazine**, vol. 63, no. 7, pp. 98-105, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812969)] [[Code](https://github.com/xiaoxiaxusummer/GAI_CDMM)]
 
+  `Diffusion Model` `Large AI Model` `Channel Estimation`
+
 - **X. Xu**, X. Mu, Y. Liu, Y. H. Kim, and A. Nallanathan. *Large Model at Edge: An Optimal Mobile Edge Generation (MEG) Design.* **IEEE Transactions on Wireless Communications**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11200498)] [[Code](https://github.com/xiaoxiaxusummer/MEGSplitting)]
+
+  `Mobile Edge Generation` `Large AI Model` `Generation Splitting` `Energy Consumption` `Latency` `Global Optimization` 
 
 - **X. Xu**, Y. Liu, X. Mu, H. Xing, and A. Nallanathan. *Accelerating mobile edge generation (MEG) by constrained learning.* **IEEE Transactions on Cognitive Communications and Networking**, vol. 11, no. 3, pp. 1854-1869, 2025. [[Paper](https://doi.org/10.1109/TCCN.2025.3558975)] [[HuggingFace](https://huggingface.co/xiaoxiaxu/LowLatencyMEG_Backbone)][[Dataset](https://huggingface.co/datasets/xiaoxiaxu/highresolution-laioncoco-aesthetic-MEG)]
 
+  `Mobile Edge Generation` `Denoising Step Compression` `Feature Compression` `Low Latency` `Constrained Reinforcement Learning` 
+
 - **X. Xu**, R. Zhong, X. Mu, Y. Liu, and K. Huang. *Mobile edge generation-enabled digital twin: Architecture design and research opportunities.* **IEEE Communications Magazine**, vol. 63, no. 4, pp. 32-39, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812968)] [[Code](https://github.com/xiaoxiaxusummer/MEG_DT)]
+
+  `Mobile Edge Generation` `Low Latency` `Distributed/Collaborative Edge-Device Generation` `JSCC` 
 
 ---
 
