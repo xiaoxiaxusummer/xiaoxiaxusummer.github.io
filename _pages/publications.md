@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Publications
-
 Selected **journal papers** and **preprints**, organized by research topic.
 
 ## Research Interests
