@@ -17,8 +17,8 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 
 ## Research Highlights
 
-- **Pinching-Antenna Systems (PASS)**  
-  Developing a new antenna paradigm for 6G with controllable radiation and flexible beamforming.
+- **Pinching-Antenna Systems (PASS)**, **Reconfigurable Intelligent Surface (RIS)**  
+  Developing new antenna paradigms for 6G with controllable radiation and flexible beamforming.
 
 - **AI-Native Wireless Networks**  
   Integrating large AI models and model-based learning into wireless systems for learning-driven communication and resource optimization.
