@@ -7,7 +7,7 @@ author_profile: true
 
 ## About
 
-I am a **Postdoctoral Researcher** at **Queen Mary University of London**, working on **AI-native wireless communications and next-generation multiple access for 6G networks**, under the supervision of **Prof. Arumugam Nallanathan** and **Prof. Yuanwei Liu**.
+I am a *Postdoctoral Researcher* at **Queen Mary University of London**, working on **advanced 6G communication techniques** and **AI-native wireless communications**, under the supervision of **Prof. Arumugam Nallanathan** and **Prof. Yuanwei Liu**.
 
 My research lies at the intersection of **advanced wireless communication theory and large AI models**, with a particular focus on **Pinching-Antenna Systems (PASS)**, **AI-native 6G Networks**, **Optimization Theory**, and **Mobile Edge Intelligence**. 
 
