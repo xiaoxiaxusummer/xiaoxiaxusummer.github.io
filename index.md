@@ -57,13 +57,13 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 
 ### AI-Native Wireless Networks and Edge Intelligence
 
-- **X. Xu**, X. Mu, Y. Liu, H. Xing, Y. Liu, and A. Nallanathan. *Generative artificial intelligence for mobile communications: A diffusion model perspective.* **IEEE Communications Magazine**, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812969)]
+- **X. Xu**, X. Mu, Y. Liu, H. Xing, Y. Liu, and A. Nallanathan. *Generative artificial intelligence for mobile communications: A diffusion model perspective.* **IEEE Communications Magazine**, vol. 63, no. 7, pp. 98-105, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812969)] [[Code](https://github.com/xiaoxiaxusummer/GAI_CDMM)]
 
-- **X. Xu**, X. Mu, Y. Liu, Y. H. Kim, and A. Nallanathan. *Large Model at Edge: An Optimal Mobile Edge Generation (MEG) Design.* **IEEE Transactions on Wireless Communications**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11200498)]
+- **X. Xu**, X. Mu, Y. Liu, Y. H. Kim, and A. Nallanathan. *Large Model at Edge: An Optimal Mobile Edge Generation (MEG) Design.* **IEEE Transactions on Wireless Communications**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11200498)] [[Code](https://github.com/xiaoxiaxusummer/MEGSplitting)]
 
-- **X. Xu**, R. Zhong, X. Mu, Y. Liu, and K. Huang. *Mobile edge generation-enabled digital twin: Architecture design and research opportunities.* **IEEE Communications Magazine**, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812968)]
+- **X. Xu**, Y. Liu, X. Mu, H. Xing, and A. Nallanathan. *Accelerating mobile edge generation (MEG) by constrained learning.* **IEEE Transactions on Cognitive Communications and Networking**, vol. 11, no. 3, pp. 1854-1869, 2025. [[Paper](https://doi.org/10.1109/TCCN.2025.3558975)] [[HuggingFace](https://huggingface.co/xiaoxiaxu/LowLatencyMEG_Backbone)][[Dataset](https://huggingface.co/datasets/xiaoxiaxu/highresolution-laioncoco-aesthetic-MEG)]
 
-- **X. Xu**, Y. Liu, X. Mu, H. Xing, and A. Nallanathan. *Accelerating mobile edge generation (MEG) by constrained learning.* **IEEE Transactions on Cognitive Communications and Networking**, 2025. [[Paper](https://doi.org/10.1109/TCCN.2025.3558975)]
+- **X. Xu**, R. Zhong, X. Mu, Y. Liu, and K. Huang. *Mobile edge generation-enabled digital twin: Architecture design and research opportunities.* **IEEE Communications Magazine**, vol. 63, no. 4, pp. 32-39, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812968)] [[Code](https://github.com/xiaoxiaxusummer/MEG_DT)]
 
 ---
 
