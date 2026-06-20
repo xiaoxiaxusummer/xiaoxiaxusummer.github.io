@@ -33,7 +33,7 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 ---
 
 ## Education
-- **Ph.D.**, Electronic Information School, **Wuhan University**, 2023. (Supervisor: Prof. Jiang Hao and Qimei Chen)
+- **Ph.D.**, Electronic Information School, **Wuhan University**, 2023. (Supervisor: Prof. Hao Jiang and Qimei Chen)
 - **Visiting Student**, EECS, **Queen Mary University of London**, 2021–2022. (Supervisor: Prof. Yuanwei Liu)
 - **B.Eng.**, Remote Sensing Information Engineering, **Wuhan University**, 2017  
 
