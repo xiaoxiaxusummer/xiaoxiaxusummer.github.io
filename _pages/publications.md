@@ -46,7 +46,7 @@ Below are selected **journal papers** or **preprints**, organized by research to
 
 ## 2. Machine Learning for B5G/6G
 
-- **X. Xu**, X. Mu, Y. Liu, H. Xing, Y. Liu, and A. Nallanathan. *Generative artificial intelligence for mobile communications: A diffusion model perspective.* **IEEE Communications Magazine**, vol. 63, no. 7, pp. 98-105, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812969)] [[Code](https://github.com/xiaoxiaxusummer/GAI_CDMM)]
+- **X. Xu**, X. Mu, Y. Liu, H. Xing, Y. Liu, and A. Nallanathan. *Generative artificial intelligence for mobile communications: A diffusion model perspective.* **IEEE Communications Magazine**, vol. 63, no. 7, pp. 98-105, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812969)] [[Code](https://github.com/xiaoxiaxusummer/GAI_COMM)]
 
 - **X. Xu**, Y. Liu, X. Mu, Q. Chen, H. Jiang, and Z. Ding. *Artificial intelligence enabled NOMA toward next generation multiple access.* **IEEE Wireless Communications**, vol. 30, no. 1, pp. 86-94, 2023. [[Paper](https://ieeexplore.ieee.org/document/10077113)] [[Code](https://github.com/xiaoxiaxusummer/AI_NOMA)]
 
