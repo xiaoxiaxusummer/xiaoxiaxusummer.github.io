@@ -66,7 +66,7 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 
 ### AI-Native Wireless Networks and Edge Intelligence
 
-- **X. Xu**, X. Mu, Y. Liu, H. Xing, Y. Liu, and A. Nallanathan. *Generative artificial intelligence for mobile communications: A diffusion model perspective.* **IEEE Communications Magazine**, vol. 63, no. 7, pp. 98-105, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812969)] [[Code](https://github.com/xiaoxiaxusummer/GAI_CDMM)]
+- **X. Xu**, X. Mu, Y. Liu, H. Xing, Y. Liu, and A. Nallanathan. *Generative artificial intelligence for mobile communications: A diffusion model perspective.* **IEEE Communications Magazine**, vol. 63, no. 7, pp. 98-105, 2024. [[Paper](https://ieeexplore.ieee.org/document/10812969)] [[Code](https://github.com/xiaoxiaxusummer/GAI_COMM)]
 
   `Diffusion Model` `Large AI Model` `Channel Estimation`
 
@@ -86,12 +86,13 @@ I received my **Ph.D.** in Electronic Information School from **Wuhan University
 
 ## News
 
-- **2026**: Our [tutorial paper on PASS](https://ieeexplore.ieee.org/document/11364174) is selected as IEEE TCOM Popular Article
+- **2026-04**: Our [PASS power radiation model paper](https://ieeexplore.ieee.org/document/11263923) is selected as IEEE TCOM Popular Article
+- **2026-03**: Our [tutorial paper on PASS](https://ieeexplore.ieee.org/document/11364174) is selected as IEEE TCOM Popular Article
 - **2025**: Our [GAI paper](https://ieeexplore.ieee.org/document/10812969) is selected as IEEE COMMAG Popular Article
-- **2025**: Our [MEG paper](https://ieeexplore.ieee.org/document/10955724) is selected as IEEE TCCN Popular Article
+- **2025-07**: Our [MEG paper](https://ieeexplore.ieee.org/document/10955724) is selected as IEEE TCCN Popular Article
 - **2024**: I joined Queen Mary University of London as a Postdoctoral Researcher.
 - **2023**: I received my PhD Degree from Wuhan University.
-- **2023**: Our [AI for NOMA paper](https://ieeexplore.ieee.org/document/10077113) is selected as IEEE WCM Popular Article
+- **2023-04**: Our [AI for NOMA paper](https://ieeexplore.ieee.org/document/10077113) is selected as IEEE WCM Popular Article
 
 ---
 
